@@ -18,7 +18,7 @@ DO NOT MERGE TO THE PRODUCTION BRANCH (Main for now)
 
 9.
 
-#JavaScript
+# JavaScript
 Now using JSDoc
 ```js
 
